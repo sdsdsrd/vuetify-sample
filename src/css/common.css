@@ -1,0 +1,16 @@
+.item {
+  cursor: pointer;
+}
+.item-content {
+  display: flex;
+  align-items: center;
+}
+.bold {
+  font-weight: bold;
+}
+ul,
+li {
+  padding-left: 1em;
+  line-height: 1.5em;
+  list-style-type: none;
+}
